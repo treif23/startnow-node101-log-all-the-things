@@ -1,0 +1,2 @@
+Agent,Time,Method,Resource,Version,Status
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.132 Safari/537.36,2018-01-30T22:23:25.977Z,GET,/logs,HTTP/1.1,200

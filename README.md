@@ -1,0 +1,1 @@
+This project was using code to log the wanted info of a user whenever they accessed the website.
